@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KbnmCHLWkSJtRfPgwZdbVML4DErnrh3TBhv4PEL3jew=",
+  "Hash": "W+BDL4NJVsqMxD/nGvW1IecsmXZYGxAS4eivY4lL5gU=",
   "Source": "PreviewDocument",
   "BasePath": "_content/PreviewDocument",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "G:\\Alphasoft\\PreviewDocument\\PreviewDocument\\wwwroot\\js\\docx-preview.js",
+      "SourceId": "PreviewDocument",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Alphasoft\\PreviewDocument\\PreviewDocument\\wwwroot\\",
+      "BasePath": "_content/PreviewDocument",
+      "RelativePath": "js/docx-preview.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\docx-preview.js"
     },
     {
       "Identity": "G:\\Alphasoft\\PreviewDocument\\PreviewDocument\\wwwroot\\js\\site.js",
