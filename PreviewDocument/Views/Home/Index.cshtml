@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Document Viewer</h1>
+    </br>
+    <form action="@Url.Action("ViewDocument")" method="post">
+        <label>Select File To View</label>
+        <input type="file" name="fileToView" />
+        <input type="submit" class="btn btn-primary" value="Render"/>
+    </form>
+</div>
